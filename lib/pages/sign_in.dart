@@ -71,7 +71,7 @@ class _SignInPageState extends State<SignInPage> {
                   style: TextStyle(fontSize: 30, fontWeight: FontWeight.w900),
                 ),
                 Text(
-                  'Welcome to the Admin Panel',
+                  'Welcome to the Admin Control Panel',
                   style: TextStyle(fontSize: 16, fontWeight: FontWeight.w500),
                 ),
                 SizedBox(
